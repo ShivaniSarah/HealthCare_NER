@@ -35,5 +35,3 @@ Suppose you have been asked to determine the disease name and its probable treat
 
 <img width="589" alt="image" src="https://user-images.githubusercontent.com/44539139/231541679-f343416b-c297-45bf-8666-50b004f94ce8.png">
 
-
-Suppose you have been given such a data set in which a lot of text is written related to the medical domain. As you can see in the dataset, there are a lot of diseases that can be mentioned in the entire dataset and their related treatments are also mentioned implicitly in the text, which you saw in the aforementioned example that the disease mentioned is cancer and its treatment can be identified as chemotherapy using the sentence.
